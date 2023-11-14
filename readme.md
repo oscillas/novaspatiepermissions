@@ -18,7 +18,7 @@ There are no PHP dependencies except the [Laravel Nova](https://nova.laravel.com
 You can install this tool into a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require itsmejoshua/novaspatiepermissions
+composer require oscillas/novaspatiepermissions
 ```
 
 Next, if you do not have package discovery enabled, you need to register the provider in the `config/app.php` file.
